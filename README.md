@@ -2,7 +2,7 @@
 - 👀 I’m interested in pokemon
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vickerybrandon48@outlook.com
+- 📫 How to reach me vickerybrandon5@gmail.com
 
 <!---
 Bravick46/Bravick46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
